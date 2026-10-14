@@ -22,6 +22,12 @@ corresponding language.
 * Added notification translations for all 31 languages supported by the PS5 system.
 * Notifications are automatically displayed in the language configured on the console.
 
+<p align="center">
+  <img src="screenshots/multi_lang.jpeg" width="600">
+  <br>
+  <em>PS5 multi language notifications</em>
+</p>
+
 ## **What's new in v1.01**
 
 * Added file filtering: only `.elf` and `.txt` files are copied from the USB `ps5_autoloader` folder.
