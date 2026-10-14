@@ -23,7 +23,7 @@ corresponding language.
 * Notifications are automatically displayed in the language configured on the console.
 
 <p align="center">
-  <img src="screenshots/multi_lang.jpeg" width="600">
+  <img src="screenshots/multi_lang.png" width="600">
   <br>
   <em>PS5 multi language notifications</em>
 </p>
